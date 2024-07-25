@@ -12,7 +12,7 @@ export const Footer = () => {
         <Row className="align-items-center">
           <MailchimpForm />
           <Col size={12} sm={6}>
-           <a href="https://i.pinimg.com/736x/5d/12/d0/5d12d0e14bd2110a430aa44555a2bdcb.jpg"><img src={logo} alt="" /></a> 
+           <a href="https://i.pinimg.com/736x/5d/12/d0/5d12d0e14bd2110a430aa44555a2bdcb.jpg"><img src={} alt="" /></a> 
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
