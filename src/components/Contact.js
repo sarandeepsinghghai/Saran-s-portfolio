@@ -4,8 +4,8 @@ import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
 export const Contact = () => {
-  const emailId = "your-email@example.com";
-  const phoneNumber = "+1234567890";
+  const emailId = "sarandeepsinghghai@gmail.com";
+  const phoneNumber = "+918700139182";
 
   const copyToClipboard = (text) => {
     navigator.clipboard.writeText(text).then(() => {
